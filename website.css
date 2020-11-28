@@ -1,3 +1,7 @@
+/* Copied directly from https://github.com/lynn---
+* Thanks @chordbug(twitter)
+*/
+
 /* Sans-serif for most content. */
 body { font-family: "Ubuntu", "Segoe UI", sans-serif; line-height: 1.3em; }
 input~span:before, .leaderboard-entry, .privboard-row { font-family: "Source Code Pro", monospace; letter-spacing: -1px; }
